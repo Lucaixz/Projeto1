@@ -1,0 +1,12 @@
+    html {
+        background-color: yellow;
+    }
+    
+    #op {
+        color:black;
+        text-transform:uppercase;
+        text-decoration: underline;
+        text-shadow: 2px 2px 2px;
+        text-align: center;
+
+    }
